@@ -4,7 +4,7 @@
   - [Creating User's in Entra ID](https://github.com/justin-herring/user-accounts)
   - [Cloud Provisioning - P2 Licensing](https://github.com/justin-herring/P2-License)
   - [Role Assignments](https://github.com/justin-herring/role-assignments)
-  - [Group Assignments]()
+  - [Group Assignments](https://github.com/justin-herring/group-assign)
   - [Identity Lifecycle]()
   - [Audit Logs]()
   - [Sign-In Logs]()
