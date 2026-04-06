@@ -1,7 +1,7 @@
 <h1>Hi, I'm Justin, an aspiring IAM Specialist </a></h1>
 
 - <b>Microsoft Azure Entra ID</b>
-  - [Creating User's in Entra ID]()
+  - [Creating User's in Entra ID](https://github.com/justin-herring/user-accounts)
   - [Cloud Provisioning - P2 Licensing]()
   - [Role Assignments]()
   - [Group Assignments]()
